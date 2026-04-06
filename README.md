@@ -1,6 +1,6 @@
 # Walmart-Sales-Forecasting-Tableau-Dashboard
 
-## 🚀 Project Overview
+## Project Overview
 
 This project analyzes Walmart sales data to uncover key business insights around **revenue, profitability, and discount strategies**. It combines **data analysis and interactive Tableau dashboards** to support data-driven decision-making.
 
@@ -12,7 +12,7 @@ The goal is to understand:
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze sales and profit performance across regions and categories
 * Identify key drivers of profitability
@@ -21,7 +21,7 @@ The goal is to understand:
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 * Walmart Sales Dataset (.xlsx)
 * Includes:
@@ -35,7 +35,7 @@ The goal is to understand:
 
 ---
 
-## 🧠 Methodology
+## Methodology
 
 ### 1. Data Preparation
 
@@ -61,9 +61,9 @@ The goal is to understand:
 
 ---
 
-## 📊 Dashboard Features (Tableau)
+## Dashboard Features (Tableau)
 
-### 🔷 KPI Overview
+### KPI Overview
 
 * Total Sales
 * Total Profit
@@ -71,14 +71,14 @@ The goal is to understand:
 
 ---
 
-### 📈 Sales Trend
+### Sales Trend
 
 * Monthly sales performance
 * Identifies growth patterns and seasonality
 
 ---
 
-### 📦 Category & Regional Analysis
+### Category & Regional Analysis
 
 * Profit by Category
 * Sales by Region
@@ -86,21 +86,21 @@ The goal is to understand:
 
 ---
 
-### 💰 Discount Impact Analysis
+### Discount Impact Analysis
 
 * Scatter plot: Discount vs Profit
 * Reveals negative relationship between heavy discounting and profitability
 
 ---
 
-### 🏆 Top Products
+### Top Products
 
 * Top-selling products by revenue
 * Helps identify key revenue drivers
 
 ---
 
-### 🎛 Interactive Filters
+### Interactive Filters
 
 * Region
 * Category
@@ -109,48 +109,48 @@ The goal is to understand:
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
-### 🔴 Discounts negatively impact profit
+### Discounts negatively impact profit
 
 * Higher discounts are strongly associated with lower profit
 * Excessive discounting can lead to losses
 
 ---
 
-### 📦 Some categories drive profit more than others
+### Some categories drive profit more than others
 
 * Certain categories consistently outperform others
 * Indicates opportunities for strategic focus
 
 ---
 
-### 🌍 Regional performance varies
+### Regional performance varies
 
 * Some regions generate higher sales and profit
 * Suggests geographical optimization opportunities
 
 ---
 
-### 📈 Sales show time-based patterns
+### Sales show time-based patterns
 
 * Seasonal trends are visible in monthly sales
 * Useful for forecasting and planning
 
 ---
 
-## 💼 Business Impact
+## Business Impact
 
 This dashboard enables businesses to:
 
-* 📊 Monitor performance in real time
-* 💰 Optimize pricing and discount strategies
-* 🎯 Focus on high-performing products and regions
-* 📈 Improve profitability through data-driven decisions
+* Monitor performance in real time
+* Optimize pricing and discount strategies
+* Focus on high-performing products and regions
+* Improve profitability through data-driven decisions
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 * No customer-level data (no segmentation)
 * No cost breakdown beyond profit
@@ -158,7 +158,7 @@ This dashboard enables businesses to:
 
 ---
 
-## 🔧 Future Improvements
+## Future Improvements
 
 * Add forecasting (time series models)
 * Build profit prediction model
@@ -167,7 +167,7 @@ This dashboard enables businesses to:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * Tableau (dashboard & visualization)
 * Excel (data source)
@@ -175,13 +175,13 @@ This dashboard enables businesses to:
 
 ---
 
-## 📌 Key Takeaway
+## Key Takeaway
 
 > Discounts drive sales but can significantly reduce profitability — optimizing discount strategy is critical for sustainable business performance.
 
 ---
 
-## 📎 How to Use
+## How to Use
 
 1. Open Tableau Public
 2. Load the dataset or packaged workbook
@@ -189,13 +189,13 @@ This dashboard enables businesses to:
 
 ---
 
-## 👤 Author
+## Author
 
-Your Name
+Tanakij Jivacharoen
 MSc Data Science & Analytics
 
 ---
 
-## ⭐ If you like this project
+## If you like this project
 
 Give it a star ⭐ and feel free to connect!
